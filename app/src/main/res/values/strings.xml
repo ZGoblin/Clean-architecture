@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clean arch</string>
+    <string name="error_main_info_not_loaded">error main info not loaded</string>
+    <string name="error_additional_info_not_loaded">additional main info not loaded</string>
+</resources>
